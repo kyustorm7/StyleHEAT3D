@@ -4,3 +4,7 @@
 # Package Files #
 .idea
 *.mp4
+
+
+checkpoints/
+docs/demo/
